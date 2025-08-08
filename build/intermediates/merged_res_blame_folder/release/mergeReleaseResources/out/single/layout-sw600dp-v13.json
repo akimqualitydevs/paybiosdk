@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "in.paybio.sdk-release-32:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "in.paybio.sdk-material-1.12.0-24:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "in.paybio.sdk-material-1.12.0-24:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

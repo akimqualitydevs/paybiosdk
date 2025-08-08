@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "in.paybio.sdk-mergeReleaseResources-30:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/akim/.gradle/caches/8.11.1/transforms/814847a4cf630f3b01b4adac09a30f32/transformed/appcompat-1.7.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "in.paybio.sdk-release-32:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/akim/.gradle/caches/8.11.1/transforms/814847a4cf630f3b01b4adac09a30f32/transformed/appcompat-1.7.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

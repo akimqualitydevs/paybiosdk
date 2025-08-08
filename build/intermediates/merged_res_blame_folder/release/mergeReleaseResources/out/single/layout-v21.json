@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "in.paybio.sdk-release-32:/layout-v21/notification_template_custom_big.xml",
+        "source": "in.paybio.sdk-core-1.16.0-8:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/layout-v21/notification_template_icon_group.xml",
+        "source": "in.paybio.sdk-core-1.16.0-8:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/layout-v21/notification_action_tombstone.xml",
+        "source": "in.paybio.sdk-core-1.16.0-8:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/layout-v21/notification_action.xml",
+        "source": "in.paybio.sdk-core-1.16.0-8:/layout-v21/notification_action.xml"
+    }
+]

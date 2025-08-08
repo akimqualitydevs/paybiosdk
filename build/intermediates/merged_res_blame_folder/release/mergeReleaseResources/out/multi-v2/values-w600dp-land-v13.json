@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "in.paybio.sdk-mergeReleaseResources-30:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/akim/.gradle/caches/8.11.1/transforms/d62a291ece61cdcb976a6c9d12031d3e/transformed/material-1.12.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "in.paybio.sdk-release-32:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/akim/.gradle/caches/8.11.1/transforms/d62a291ece61cdcb976a6c9d12031d3e/transformed/material-1.12.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

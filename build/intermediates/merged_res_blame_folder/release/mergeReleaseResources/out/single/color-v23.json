@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_color_highlight_material.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_tint_default.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_tint_spinner.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_tint_edittext.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "in.paybio.sdk-release-32:/color-v23/abc_tint_switch_track.xml",
+        "source": "in.paybio.sdk-appcompat-1.7.1-10:/color-v23/abc_tint_switch_track.xml"
+    }
+]

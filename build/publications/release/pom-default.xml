@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>in.paybio.sdk</groupId>
+  <artifactId>paybiosdk</artifactId>
+  <version>1.0.0</version>
+  <packaging>aar</packaging>
+  <name>Paybio SDK</name>
+  <description>SDK for Paybio services</description>
+  <url>https://github.com/akimqualitydevs/paybiosdk</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>akimqualitydevs</id>
+      <name>Akim</name>
+      <email>akim@qualitydevs.net</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/akimqualitydevs/paybiosdk.git</connection>
+    <developerConnection>scm:git:ssh://github.com/akimqualitydevs/paybiosdk.git</developerConnection>
+    <url>https://github.com/akimqualitydevs/paybiosdk</url>
+  </scm>
+</project>
