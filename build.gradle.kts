@@ -82,7 +82,7 @@ afterEvaluate {
 
                 groupId = "in.paybio.sdk"
                 artifactId = "paybiosdk"
-                version = "1.0.0"
+                version = "1.0.1"
 
                 pom {
                     name.set("Paybio SDK")
